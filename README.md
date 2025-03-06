@@ -1,2 +1,2 @@
-# pm-ca
-This is my Project Methodology Course Assignment!
+# Semester Project
+This is a repository for my Semester Project!
